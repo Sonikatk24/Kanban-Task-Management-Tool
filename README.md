@@ -33,26 +33,21 @@ The application helps users create, manage, organize, and track tasks through di
 - **Database** – MySQL / configured database
 - **Git & GitHub**
 
-## 📂 Project Structure
 
-```text
-Kanban-Task-Management-Tool
-│
-├── .mvn/
-│   └── wrapper/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── ...
-│   │   └── resources/
-│   │       └── application.properties
-│   │
-│   └── test/
-│
-├── .gitignore
-├── mvnw
-├── mvnw.cmd
-├── pom.xml
-└── README.md
+## 👩‍💻 Author
 
+**Sonika**
+
+Engineering Student | Java & Web Developer
+
+### Connect With Me
+
+- GitHub: https://github.com/Sonikat24
+
+---
+
+## ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub!
+
+Thank you for checking out the **Kanban Task Management Tool**! 🚀
